@@ -1,7 +1,7 @@
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
 import 'package:toktik/config/helpers/human_formats.dart';
-import 'package:toktik/features/domain/video_post.dart';
+import 'package:toktik/features/domain/entities/video_post.dart';
 
 class VideoButtons extends StatelessWidget {
 

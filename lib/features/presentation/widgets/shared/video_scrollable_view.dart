@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toktik/features/domain/video_post.dart';
+import 'package:toktik/features/domain/entities/video_post.dart';
 import 'package:toktik/features/presentation/widgets/shared/video_buttons.dart';
 import 'package:toktik/features/presentation/widgets/video/fullscreen_player.dart';
 
